@@ -37,7 +37,7 @@ export const site: SiteContent = {
     eventDetails: {
       address: "вул. Пастера, 56",
       date: "23 серпня 2026",
-      time: "10:00",
+      time: "11:00",
     },
     compare: {
       resultPrice: "0 грн",
@@ -145,7 +145,7 @@ export const site: SiteContent = {
 
   contacts: {
     address: "вул. Пастера, 56",
-    hours: "23 серпня 2026, 10:00",
+    hours: "23 серпня 2026, 11:00",
     mapEmbed:
       "https://www.google.com/maps/d/viewer?mid=1gFEMSdfzWmKIJo-yfm_31lAsWmw&femb=1&ll=46.48831362628809%2C30.73033852380375&z=15",
     social: [
