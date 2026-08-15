@@ -35,7 +35,7 @@ export const site: SiteContent = {
       { label: "Тривалість", value: "1,5 години" },
     ],
     eventDetails: {
-      address: "вул. Пастера, 56",
+      address: "вул. Всеволода Змієнка, 33",
       date: "23 серпня 2026",
       time: "11:00",
     },
@@ -144,10 +144,10 @@ export const site: SiteContent = {
   formCounter: { total: 12, left: 5, note: "Місце підтверджує особисто команда докторки наук" },
 
   contacts: {
-    address: "вул. Пастера, 56",
+    address: "вул. Всеволода Змієнка, 33",
     hours: "23 серпня 2026, 11:00",
     mapEmbed:
-      "https://www.google.com/maps/d/viewer?mid=1gFEMSdfzWmKIJo-yfm_31lAsWmw&femb=1&ll=46.48831362628809%2C30.73033852380375&z=15",
+      "https://www.google.com/maps/d/viewer?mid=1gFEMSdfzWmKIJo-yfm_31lAsWmw&femb=1&ll=46.48347873080818%2C30.726114044605293&z=18",
     social: [
       { platform: "youtube", href: "https://youtube.com/channel/UCFSGpMTxC6NtmlZ9Ku2qnWQ" },
       { platform: "instagram", href: "https://www.instagram.com/unimecs.official" },
